@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Tasty-Food/static/css/main.710ba43b.css",
+    "main.js": "/Tasty-Food/static/js/main.34a9b813.js",
+    "static/media/bannerFood.jpg": "/Tasty-Food/static/media/bannerFood.1d3252d35b78ec875fb7.jpg",
+    "static/media/Chicken.jpg": "/Tasty-Food/static/media/Chicken.c46b31b168495e829d08.jpg",
+    "static/media/heroImg.png": "/Tasty-Food/static/media/heroImg.e3ef74be66b8a37b4de8.png",
+    "static/media/WhyTasty.png": "/Tasty-Food/static/media/WhyTasty.c2a808618ecbf53c92bc.png",
+    "static/media/VegPizza.jpg": "/Tasty-Food/static/media/VegPizza.f15385546f60c8d0f0d9.jpg",
+    "static/media/user.png": "/Tasty-Food/static/media/user.c3b37a559ab3b7d28bd5.png",
+    "static/media/ChickenBurger.jpg": "/Tasty-Food/static/media/ChickenBurger.6be97a612b580d595585.jpg",
+    "static/media/ClassicHamBurger.jpg": "/Tasty-Food/static/media/ClassicHamBurger.efc6c71968cf3ffe817a.jpg",
+    "static/media/Debitcard.png": "/Tasty-Food/static/media/Debitcard.e69767045cae3ad5ace5.png",
+    "static/media/DelBread.png": "/Tasty-Food/static/media/DelBread.dd485726262fc6f94474.png",
+    "static/media/logo.png": "/Tasty-Food/static/media/logo.2f9021c4ef5fe532038e.png",
+    "index.html": "/Tasty-Food/index.html",
+    "main.710ba43b.css.map": "/Tasty-Food/static/css/main.710ba43b.css.map",
+    "main.34a9b813.js.map": "/Tasty-Food/static/js/main.34a9b813.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.710ba43b.css",
+    "static/js/main.34a9b813.js"
+  ]
+}
